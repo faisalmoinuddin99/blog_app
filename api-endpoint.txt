@@ -1,0 +1,7 @@
+BLOG: version 1
+
+GET [ ALL ]: http://blogbackendv1-env.eba-fkgydx9j.ap-northeast-1.elasticbeanstalk.com/v1/api/blogs/
+
+POST: http://blogbackendv1-env.eba-fkgydx9j.ap-northeast-1.elasticbeanstalk.com/v1/api/blogs/
+ 
+GET [By Id]: http://blogbackendv1-env.eba-fkgydx9j.ap-northeast-1.elasticbeanstalk.com/v1/api/blogs/2
